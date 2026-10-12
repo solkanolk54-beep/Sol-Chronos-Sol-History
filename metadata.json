@@ -1,0 +1,6 @@
+{
+  "name": "Sol-Chronos | منصة التحليل الزمني المكاني للأقمار الصناعية",
+  "description": "منصة وطنية سيادية للتحليل التاريخي والزمني للمناطق والأراضي الفلاحية والموارد المائية بالجزائر وإفريقيا (1984 - 2026+) بالاعتماد على أرشيف Landsat و Sentinel و PostGIS وحساب مؤشرات NDVI/NDWI والإنذار المبكر للجفاف Dark-Drought.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
